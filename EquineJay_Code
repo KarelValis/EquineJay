@@ -1,0 +1,24 @@
+resultRow = 0;
+
+createLine("A1", "A2", resultRow);
+
+resultRow++;
+createLine("A1", "A3", resultRow);
+
+resultRow++;
+createLine("A2", "A3", resultRow);
+
+
+function createLine(name1, name2, row){
+    // Select first point roi in the RoiManager
+    RoiManager.selectByName(name1);
+    // GetCoordinates of the selected roi
+    Roi.getBounds(x1, y1, w1, h1);
+    //print ("x1: " + x1 + " y1: " + y1);
+
+    // Select second point roi in the RoiManager
+    RoiManager.selectByName(name2);
+    Roi.getBounds(x2, y2, w2, h2);
+
+    makeLine (x1, y1, x2, y2);
+    roiManager("Add");
