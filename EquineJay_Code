@@ -22,3 +22,11 @@ function createLine(name1, name2, row){
 
     makeLine (x1, y1, x2, y2);
     roiManager("Add");
+ // Calculate length between point 1 and 2
+    length = sqrt((x2-y1)*(x2-x1) + (y2-y1)*(y2-y1));
+    //print (length);
+
+    // Add measurement to the result table
+    setResult("Point_1", row, name1);
+    setResult("Point_2", row, name2);
+    setResult("Distance", row, length);
