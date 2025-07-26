@@ -110,7 +110,7 @@ function morphometry(title, batchMode) {
 		awff += b = (p * p) / (4 * π); 
 		// awff = ff * (a / sum_area)
 		ff += b / a; 
-		// ff = p^2 / (4 * pi * a)}
+		// ff = p^2 / (4 * π * a)}
 		nParticles = nResults;
 		// skeletonize to get length
 		selectWindow("Mask of Binary"); 
