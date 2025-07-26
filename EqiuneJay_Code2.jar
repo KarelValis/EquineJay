@@ -1,4 +1,4 @@
-var ch = 0; 
+var ch = 1; 
 // channel to be analyzed for RGB images
  * Ctrl+Shift+O closes current and opens next image*/
 macro "Morphometry [F7]" {
