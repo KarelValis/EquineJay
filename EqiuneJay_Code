@@ -1,4 +1,4 @@
-var ch = 1; 
+var ch = 0; 
 // channel to be analyzed for RGB images
  * Ctrl+Shift+O closes current and opens next image*/
 macro "Morphometry [F7]" {
@@ -48,8 +48,8 @@ function morphometry(title, batchMode) {
 		selectWindow("Binary");close();
 	} 
 	// close previous working image
-	if (isOpen("Skeleton")) {
-		selectWindow("Skeleton");close();
+	if (isOpen("Cesar")) {
+		selectWindow("Cesar");close();
 	} // close previous working image
 	selectWindow(title);
 	if (selectionType() == -1) // no selection
@@ -84,7 +84,7 @@ function morphometry(title, batchMode) {
 		run("Restore Selection"); 
 		// fill outside of selection with background
 		fill();
-		run("Gaussian Blur...", "radius=64"); 
+		run("Gaussian Blur...", "radius=#"); 
 		// smooth abrupt background transition
 		roiManager("Delete"); 
 		/* delete masking selection (ROI manager has cell selections) */
