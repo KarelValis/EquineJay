@@ -107,7 +107,7 @@ function morphometry(title, batchMode) {
 		sum_a += a;
 		a2 += a * a;
 		// area2 = a2 / (sum_a * sum_a)
-		awff += b = (p * p) / (4 * 3.14159265358979); 
+		awff += b = (p * p) / (4 * π); 
 		// awff = ff * (a / sum_area)
 		ff += b / a; 
 		// ff = p^2 / (4 * pi * a)}
