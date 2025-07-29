@@ -4,7 +4,7 @@
 
 ## Title: Java macro for ImageJ-assisted horse morhometry
 
-## Description: Java code enabling horse morphometric parameters (lenght, angels) measurement using ImageJ and equine 2D photo
+## Description: Java code enabling horse morphometric parameters (lenght, angles) measurement using ImageJ and equine 2D photo
 ## Version: 1.0.0
 
 ## Date: 29.07.2025
