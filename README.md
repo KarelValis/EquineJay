@@ -33,7 +33,9 @@
 
 ## LinkingTo:
 
-### N/A
+### ImageJ
+
+### 2D photo
 
 ## SystemRequirements:
 
@@ -41,11 +43,19 @@
 
 ## Views:
 
+### Java
+
+### ImageJ
+
+### Fiji
+
 ### horse
 
-### 2D photo
+### equine 2D photo
 
 ### lenght
+
+### angels
 
 ### morphometry
 
