@@ -19,7 +19,7 @@
 
 ### Windows
 
-### Java (>= 17.0)
+### Java (>= 8.0)
 
 ### ImageJ
 
