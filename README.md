@@ -1,4 +1,4 @@
-# Repository: EquineJay
+# Repository: EquineJay :horse:
 
 ## Type: Java macro
 
