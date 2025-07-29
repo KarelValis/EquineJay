@@ -17,58 +17,44 @@
 
 ## Depends:
 
-### Linux (Debian forks)
+### Windows
 
-### curl
+### Java (>= 17.0)
 
-### Python (>= 3.0)
-
-### Java Openjdk (>= 8.0)
-
-### Samtools (1.19.2)
-
-### Bcftools (1.19)
-
-### BWA (0.7.17)
+### ImageJ
 
 ## Suggests:
 
-### Integrative Genomics Viewer (https://igv.org/)
+### ImageJ
 
-### fasta
-
-### fastq
+### Fiji
 
 ### markdown
 
 ## LinkingTo:
 
-### NCBI database
+### N/A
 
 ## SystemRequirements:
 
-### GNU
+### Windows
 
 ## Views:
 
-### The Burrows–Wheeler transform
+### horse
 
-### NGS
+### 2D photo
 
-### fastq
+### lenght
 
-### Sheep
+### morphometry
 
-### Genomics
+### horse performance
 
-### SNP calling
-
-### InDels view
-
-## URL: https://github.com/KarelValis/SheepBam/
+## URL: https://https://github.com/KarelValis/EquineJay
 
 # Acknowledgement:
 
-## NAZV-QK1910082: Supported by the National Agency of Agricultural Research of the Czech Republic, Project number QK1910082
+## NAZV-QK1910082: Supported by the National Agency of Agricultural Research of the Czech Republic, Project number QL25020022
 
 ## MZE-RO0723: Supported by the Ministry of Agriculture of the Czech Republic, institutional support MZE-RO0723
