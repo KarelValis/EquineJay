@@ -11,7 +11,7 @@
 
 ## Maintainer: Karel Vališ (valis.karel@vuzv.cz)
 
-## Authors: Karel Vališ (valis.karel@vuzv.cz), Jitka Kyselová (kyselova.jitka@vuzv.cz), Zuzana Sztankóová (sztankoova.zuzana@vuzv.cz) and Fatima Elzeinová (elzeinova.fatima@vuzv.cz
+## Authors: Karel Vališ (valis.karel@vuzv.cz), Jitka Kyselová (kyselova.jitka@vuzv.cz), Zuzana Sztankóová (sztankoova.zuzana@vuzv.cz) and Fatima Elzeinová (elzeinova.fatima@vuzv.cz)
 
 ## Licence: LGPL-3
 
