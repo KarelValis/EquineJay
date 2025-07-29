@@ -25,6 +25,8 @@
 
 ## Suggests:
 
+### Java
+
 ### ImageJ
 
 ### Fiji
