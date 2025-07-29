@@ -63,7 +63,7 @@
 
 ### horse performance
 
-## URL: https://https://github.com/KarelValis/EquineJay
+## URL: https://github.com/KarelValis/EquineJay
 
 # Acknowledgement:
 
